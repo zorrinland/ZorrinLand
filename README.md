@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Será un juego online de mundo abierto pero para seguir otros mundos tienes que conseguir mapas 
 <!--
 **zorrinland/ZorrinLand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
